@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Гарри Поттер</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Гарри Поттер</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+    <string name="autor">Федорова Дарина</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://ru.wikipedia.org/wiki/Гарри_Поттер</string>
+    <string name="spy_soft">https://ru.wikipedia.org/wiki/Серия_романов_о_Гарри_Поттере</string>
+    <string name="securitylab">https://ru.wikipedia.org/wiki/Роулинг,_Джоан</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">777777@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте !</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>
